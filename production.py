@@ -23,5 +23,5 @@ Postgres server password: 8dB8t!c7bFHFnThYw
 Postgres server DNS string: postgresql-00112.westus.cloudapp.azure.com
 Postgres DB Name:  djangoblog
 Github blog repository name: django-app (I think...)
-New secret key: AFm+3p%t^6ZA5wJW+<6#MW=_-(W$b"aeWy'q[y%:AT#+D?+(Xf
+New secret key: AFm+3p%t^6ZA5wJW+<6wMWu_-(W$biaeWyoq[y%:AT#+D?+(Xf
 Database url: postgres://postgres:8dB8t!c7bFHFnThYw@postgresql-00112.westus.cloudapp.azure.com:5432/djangoblog
